@@ -30,3 +30,4 @@ Visualização:
 
 A utilização do matplotlib para exibir a nuvem de palavras é bem feita. O uso de plt.axis("off") para remover os eixos é apropriado para uma visualização mais limpa.
 
+![image](https://github.com/user-attachments/assets/f10002f2-27d9-48cc-af69-011d350dd211)
